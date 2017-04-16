@@ -1,0 +1,436 @@
+@font-face {
+	font-family: "MuseoSansRegular";
+	src: url("../fonts/MuseoSansRegular/MuseoSansRegular.eot");
+	src: url("../fonts/MuseoSansRegular/MuseoSansRegular.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansRegular/MuseoSansRegular.woff") format("woff"),
+	url("../fonts/MuseoSansRegular/MuseoSansRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MuseoSansBold"; */
+@font-face {
+	font-family: "MuseoSansBold";
+	src: url("../fonts/MuseoSansBold/MuseoSansBold.eot");
+	src: url("../fonts/MuseoSansBold/MuseoSansBold.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansBold/MuseoSansBold.woff") format("woff"),
+	url("../fonts/MuseoSansBold/MuseoSansBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MuseoSansItalic"; */
+@font-face {
+	font-family: "MuseoSansItalic";
+	src: url("../fonts/MuseoSansItalic/MuseoSansItalic.eot");
+	src: url("../fonts/MuseoSansItalic/MuseoSansItalic.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansItalic/MuseoSansItalic.woff") format("woff"),
+	url("../fonts/MuseoSansItalic/MuseoSansItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MuseoSansLight"; */
+@font-face {
+	font-family: "MuseoSansLight";
+	src: url("../fonts/MuseoSansLight/MuseoSansLight.eot");
+	src: url("../fonts/MuseoSansLight/MuseoSansLight.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansLight/MuseoSansLight.woff") format("woff"),
+	url("../fonts/MuseoSansLight/MuseoSansLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MuseoSansMedium"; */
+@font-face {
+	font-family: "MuseoSansMedium";
+	src: url("../fonts/MuseoSansMedium/MuseoSansMedium.eot");
+	src: url("../fonts/MuseoSansMedium/MuseoSansMedium.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansMedium/MuseoSansMedium.woff") format("woff"),
+	url("../fonts/MuseoSansMedium/MuseoSansMedium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MuseoSansBlack"; */
+@font-face {
+	font-family: "MuseoSansBlack";
+	src: url("../fonts/MuseoSansBlack/MuseoSansBlack.eot");
+	src: url("../fonts/MuseoSansBlack/MuseoSansBlack.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansBlack/MuseoSansBlack.woff") format("woff"),
+	url("../fonts/MuseoSansBlack/MuseoSansBlack.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MuseoSansBoldItalic"; */
+@font-face {
+	font-family: "MuseoSansBoldItalic";
+	src: url("../fonts/MuseoSansBoldItalic/MuseoSansBoldItalic.eot");
+	src: url("../fonts/MuseoSansBoldItalic/MuseoSansBoldItalic.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansBoldItalic/MuseoSansBoldItalic.woff") format("woff"),
+	url("../fonts/MuseoSansBoldItalic/MuseoSansBoldItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MuseoSansMediumItalic"; */
+@font-face {
+	font-family: "MuseoSansMediumItalic";
+	src: url("../fonts/MuseoSansMediumItalic/MuseoSansMediumItalic.eot");
+	src: url("../fonts/MuseoSansMediumItalic/MuseoSansMediumItalic.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansMediumItalic/MuseoSansMediumItalic.woff") format("woff"),
+	url("../fonts/MuseoSansMediumItalic/MuseoSansMediumItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MuseoSansLightItalic"; */
+@font-face {
+	font-family: "MuseoSansLightItalic";
+	src: url("../fonts/MuseoSansLightItalic/MuseoSansLightItalic.eot");
+	src: url("../fonts/MuseoSansLightItalic/MuseoSansLightItalic.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansLightItalic/MuseoSansLightItalic.woff") format("woff"),
+	url("../fonts/MuseoSansLightItalic/MuseoSansLightItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MuseoSansBlackItalic"; */
+@font-face {
+	font-family: "MuseoSansBlackItalic";
+	src: url("../fonts/MuseoSansBlackItalic/MuseoSansBlackItalic.eot");
+	src: url("../fonts/MuseoSansBlackItalic/MuseoSansBlackItalic.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/MuseoSansBlackItalic/MuseoSansBlackItalic.woff") format("woff"),
+	url("../fonts/MuseoSansBlackItalic/MuseoSansBlackItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+body {
+	margin: 0 !important;
+	padding: 0 !important;
+	color: #383838;
+	font-size: 16px !important;
+	line-height: 22px;
+	font-family: MuseoSansRegular !important;
+}
+
+header {
+	background-image: url("../img/bg-1.jpg") !important;
+	background-position: 50% 50% !important;
+	background-size: cover !important;
+
+}
+
+.logo {
+	padding-top: 20px!important;
+	padding-bottom: 20px!important;
+}
+
+.photo {
+	height: 200px;
+	width: 200px;
+	min-width: 200px!important;
+}
+.min-width-200{
+	min-width: 210px!important;
+}
+
+.is-color-red {
+	color: #f13239 !important;
+}
+
+.is-color-green {
+	color: #70be45;
+}
+
+.is-color-white {
+	color: white;
+}
+
+.is-bg-green {
+	background-color: #70be45 !important;
+}
+
+.is-color-black {
+	color: black !important;
+}
+
+.main-menu-link {
+	color: black !important;
+	transition: all 0.3s;
+}
+
+.main-menu-link:hover {
+	color: white !important;
+	background-color: #f13239 !important;
+}
+
+.is-simple {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.center {
+	display: flex !important;
+	align-items: center !important;
+}
+
+.font-roboto {
+	font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+.font-museo {
+	font-family: MuseoSansRegular !important;
+	letter-spacing: 0.04em;
+}
+
+.font-museo-medium {
+	font-family: MuseoSansMedium !important;
+}
+
+.is-uppercase {
+	text-transform: uppercase;
+}
+
+.is-simple-top {
+	margin-top: 0 !important;
+}
+
+.is-margit-top-10 {
+	margin-top: 10px !important;
+}
+
+.is-color-gray {
+	color: #383838;
+}
+
+.navbar {
+	border-radius: 0 !important;
+}
+
+.is-margin-bottom-55 {
+	margin-bottom: 55px;
+}
+
+.form-well {
+	max-width: 468px;
+	padding: 30px 48px !important;
+	flex: 0 auto;
+	background-color: #f6f6f6;
+	box-shadow: 0 0 0 4px #ddd, 0 0 30px 0 rgba(38, 38, 38, .04);
+	text-align: center;
+	border-radius: 0 !important;
+	border-width: 4px !important;
+
+}
+
+.is-font-16 {
+	font-size: 16px !important;
+}
+
+.is-font-14 {
+	font-size: 14px !important;
+}
+
+.input {
+	height: 42px !important;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	margin-bottom: 8px !important;
+	border: 1px solid #f4f3f0 !important;
+	transition: all 0.4s ease !important;
+	border-radius: 0 !important;
+	color: #333333 !important;
+
+}
+
+.input:hover {
+	border-color: #d6d6d6;
+	outline: none !important;
+}
+
+.input:focus {
+	border-color: #376092 !important;
+	outline: none !important;
+}
+
+.input-textarea {
+	width: 100%;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	margin-bottom: 8px !important;
+	border: 1px solid #f4f3f0 !important;
+	transition: all 0.4s ease !important;
+	border-radius: 0 !important;
+	resize: none !important;
+	height: 90px !important;
+	color: #333333 !important;
+	font-size: 14px !important;
+}
+
+.input-textarea:hover {
+	border-color: #d6d6d6;
+	outline: none !important;
+}
+
+.input-textarea:focus {
+	border-color: #376092 !important;
+	outline: none !important;
+}
+
+.input-btn {
+	min-width: 220px !important;
+	border-radius: 0 !important;
+	padding-left: 34px !important;
+	padding-right: 34px !important;
+	padding-bottom: 7px !important;
+	text-transform: uppercase;
+	transition: all 0.4s ease;
+	background-color: #f13239 !important;
+	color: white !important;
+	letter-spacing: 0.06em !important;
+}
+
+.input-btn:hover {
+	background-color: #c53535 !important;
+}
+
+.input-info {
+	color: rgba(56, 56, 56, .55);
+}
+
+.hot-line {
+	border-radius: 0 !important;
+	padding: 30px 44px 25px 48px !important;
+	background-color: #f13239 !important;
+	background-image: url(/assets/img/icon-phone.png) !important;
+	background-size: cover !important;
+	background-position: 98% 100% !important;
+	background-repeat: no-repeat !important;
+	color: white !important;
+	max-width: 400px !important;
+}
+
+.title {
+	font-family: "MuseoSansBold";
+	font-size: 32px !important;
+	line-height: 34px !important;
+	letter-spacing: 0.08em !important;
+	text-transform: uppercase !important;
+
+}
+
+.subtitle {
+	margin-bottom: 6px !important;
+	font-size: 12px;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	text-align: start;
+}
+
+.phone a {
+	color: #fff;
+	font-size: 28px;
+	line-height: 36px;
+	letter-spacing: 0.07em;
+}
+
+.phone a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+.duty-lawyer {
+	padding-top: 80px !important;
+	padding-bottom: 80px !important;
+	background: url(../img/bg-2.jpg) no-repeat 50% 50%;
+	background-size: cover;
+}
+
+.name {
+	margin-top: 25px !important;
+	margin-bottom: 20px !important;
+	font-size: 20px !important;
+	line-height: 24px !important;
+	letter-spacing: 0.01em !important;
+	font-family: MuseoSansBold;
+	color: white;
+}
+
+.about-university {
+	color: white;
+	margin-bottom: 10px !important;
+}
+
+.consult-well {
+	padding: 40px 55px 45px;
+	box-shadow: inset 0 0 0 6px #fff;
+	text-align: center;
+}
+
+.cons-title {
+	color: white;
+	font-family: MuseoSansBold;
+	margin-bottom: 10px !important;
+}
+
+.cons-phone a {
+	color: #fff;
+	font-size: 40px !important;
+	line-height: 34px;
+	letter-spacing: 0.09em;
+}
+
+.cons-phone a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+.contacts {
+	padding-top: 80px !important;
+	padding-bottom: 80px !important;
+	background-color: white !important;
+}
+
+.is-margin-top-none {
+	margin-top: 0 !important;
+}
+
+.frame {
+	width: 100%;
+	height: 300px;
+}
+.contact{
+	display: flex;
+	align-items: flex-start;
+}
+.icon {
+	min-width: 42px !important;
+	width: 42px !important;
+	margin-right: 20px!important;
+}
+.services{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #f6f6f6!important;
+}
+.list{
+	padding: 10px;
+	background-color: transparent;
+	border-color: transparent ;
+}
+.list:hover{
+	outline: none;
+}
+.list:hover{
+	outline: none;
+}
+footer{
+
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color:#70be45;
+	color: white!important;
+}
