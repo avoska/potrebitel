@@ -151,6 +151,7 @@ header {
 
 .is-bg-green {
 	background-color: #70be45 !important;
+	border-color: #70be45!important;
 }
 
 .is-color-black {
@@ -188,6 +189,9 @@ header {
 
 .font-museo-medium {
 	font-family: MuseoSansMedium !important;
+}
+.font-museo-bold{
+	font-family: MuseoSansBold !important;
 }
 
 .is-uppercase {
