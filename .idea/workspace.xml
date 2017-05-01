@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0d591868-1b73-4511-9601-100ea5f8f9fa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="potrebitel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,11 +40,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="484">
-                  <caret line="228" column="10" selection-start-line="191" selection-start-column="0" selection-end-line="228" selection-end-column="10" />
+                <state relative-caret-position="406">
+                  <caret line="92" column="52" selection-start-line="92" selection-start-column="52" selection-end-line="92" selection-end-column="52" />
                   <folding />
                 </state>
               </provider>
@@ -80,11 +80,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/about.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+                <state relative-caret-position="221">
+                  <caret line="56" column="60" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
                   <folding />
                 </state>
               </provider>
@@ -114,12 +114,12 @@
       <list>
         <option value="$PROJECT_DIR$/assets/css/style.less" />
         <option value="$PROJECT_DIR$/balcklist.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/laws.html" />
         <option value="$PROJECT_DIR$/blacklist.html" />
         <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -276,7 +276,7 @@
       <workItem from="1492957254393" duration="640000" />
       <workItem from="1493005820073" duration="1056000" />
       <workItem from="1493543108997" duration="597000" />
-      <workItem from="1493583951646" duration="10734000" />
+      <workItem from="1493583951646" duration="11276000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1492367585157</created>
@@ -320,11 +320,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493632609342</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="final version 1.1&#10;">
+      <created>1493632684630</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1493632684630</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60249000" />
+    <option name="totallyTimeSpent" value="60791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -357,7 +364,8 @@
     <MESSAGE value="added phone resolution" />
     <MESSAGE value="added pages&gt;news, laws, blacklist, about&#10;" />
     <MESSAGE value="final version 1&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="final version 1&#10;" />
+    <MESSAGE value="final version 1.1&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="final version 1.1&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -714,14 +722,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/balcklist.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="228" column="10" selection-start-line="191" selection-start-column="0" selection-end-line="228" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blacklist.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="654">
@@ -756,8 +756,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+        <state relative-caret-position="221">
+          <caret line="56" column="60" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="92" column="52" selection-start-line="92" selection-start-column="52" selection-end-line="92" selection-end-column="52" />
           <folding />
         </state>
       </provider>
