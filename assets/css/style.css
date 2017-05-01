@@ -124,17 +124,18 @@ header {
 }
 
 .logo {
-	padding-top: 20px!important;
-	padding-bottom: 20px!important;
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
 }
 
 .photo {
 	height: 200px;
 	width: 200px;
-	min-width: 200px!important;
+	min-width: 200px !important;
 }
-.min-width-200{
-	min-width: 210px!important;
+
+.min-width-200 {
+	min-width: 210px !important;
 }
 
 .is-color-red {
@@ -151,7 +152,7 @@ header {
 
 .is-bg-green {
 	background-color: #70be45 !important;
-	border-color: #70be45!important;
+	border-color: #70be45 !important;
 }
 
 .is-color-black {
@@ -190,7 +191,8 @@ header {
 .font-museo-medium {
 	font-family: MuseoSansMedium !important;
 }
-.font-museo-bold{
+
+.font-museo-bold {
 	font-family: MuseoSansBold !important;
 }
 
@@ -406,35 +408,79 @@ header {
 	width: 100%;
 	height: 300px;
 }
-.contact{
+
+.contact {
 	display: flex;
 	align-items: flex-start;
 }
+
 .icon {
 	min-width: 42px !important;
 	width: 42px !important;
-	margin-right: 20px!important;
+	margin-right: 20px !important;
 }
-.services{
+
+.services {
 	padding-top: 30px;
 	padding-bottom: 30px;
-	background-color: #f6f6f6!important;
+	background-color: #f6f6f6 !important;
 }
-.list{
+
+.list {
 	padding: 10px;
 	background-color: transparent;
-	border-color: transparent ;
+	border-color: transparent;
 }
-.list:hover{
+
+.list:hover {
 	outline: none;
 }
-.list:hover{
+
+.list:hover {
 	outline: none;
 }
-footer{
+
+footer {
 
 	padding-top: 40px;
 	padding-bottom: 40px;
-	background-color:#70be45;
-	color: white!important;
+	background-color: #70be45;
+	color: white !important;
+}
+
+.news-well {
+	background-color: #f6f6f6;
+	box-shadow: 0 0 0 4px #ddd, 0 0 30px 0 rgba(38, 38, 38, .04);
+	text-align: center;
+	border-radius: 0 !important;
+	border-width: 4px !important;
+	margin-bottom: 50px;
+}
+.news-title{
+	background-color: #70be45!important;
+	padding: 18px;
+	font-family: MuseoSansBold ;
+}
+.news-body{
+	padding: 18px;
+}
+.important-news{
+	background-color: #f13239!important;
+}
+.panel-group{
+	margin-bottom: 50px!important;
+}
+.panel{
+	border-width: 4px !important;
+	border-radius: 0!important;
+}
+
+
+.download-btn{
+	margin-top: 10px;
+	width: 40%;
+	border-radius: 0!important;
+}
+.panel-body > form{
+	text-align: center;
 }
