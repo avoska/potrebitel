@@ -419,11 +419,16 @@ header {
 	width: 42px !important;
 	margin-right: 20px !important;
 }
-
+.paymoney{
+	background-color: rgba(131, 138, 155, 0.31)!important;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
 .services {
 	padding-top: 30px;
 	padding-bottom: 30px;
-	background-color: #f6f6f6 !important;
+	background-color: rgba(66, 70, 86, 0.31) !important;
 }
 
 .list {
@@ -459,7 +464,7 @@ footer {
 .news-title{
 	background-color: #70be45!important;
 	padding: 18px;
-	font-family: MuseoSansBold ;
+font-family: MuseoSansBold ;
 }
 .news-body{
 	padding: 18px;
@@ -483,4 +488,9 @@ footer {
 }
 .panel-body > form{
 	text-align: center;
+}
+.main-photo{
+	max-width: 100%;
+	height: auto;
+	padding-bottom: 30px;
 }
